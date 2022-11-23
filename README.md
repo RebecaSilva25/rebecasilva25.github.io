@@ -1,2 +1,2 @@
 # rebecasilva25.github.io
-Curriculo Dev 
+Curriculo da Jornada Dev 
